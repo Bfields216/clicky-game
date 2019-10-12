@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Iron-Man",
+    "image": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/ironman-spiderman-homecoming-poster-frontpage-700x354.jpg",
+  
+    "location": "Stark-Towner"
+  },
+  {
+    "id": 2,
+    "name": "Issa Rae",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2017814/rs_634x1024-170914130419-634.Issa-Rae-best-Beauty-Pink.jl.091417.jpg?fit=inside|900:auto&output-quality=90",
+   
+    "location": "Insecure"
+  },
+  {
+    "id": 3,
+    "name": "Jon Snow",
+    "image": "https://metro.co.uk/wp-content/uploads/2019/08/SEI_70963047.jpg?quality=90&strip=all",
+  
+    "location": "The Wall"
+  },
+  {
+    "id": 4,
+    "name": "K Dot",
+    "image": "https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/oxqmljchsfz3adpnsbtg/kendrick-lamar",
+   
+    "location": "Compton"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Dre",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41CGH47W2DL.jpg",
+   
+    "location": "LA"
+  },
+  {
+    "id": 6,
+    "name": "GKMC",
+    "image": "https://images.rapgenius.com/08bd7e3fd36bc6cf8fca520c5e475903.923x919x1.jpg",
+   
+    "location": "Compton"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "OutKast",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Outkast-atliens.jpg/220px-Outkast-atliens.jpg",
+
+    "location": "Atliens"
+  },
+  {
+    "id": 9,
+    "name": "Big Sean",
+    "image": "https://townsquare.media/site/812/files/2015/02/big_sean_dark_sky_paradise_deluxe_cover_96.jpg?w=980&q=75",
+    
+    "location": "Finally Famous"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+   
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Dark Seid",
+    "image": "https://vignette.wikia.nocookie.net/characterprofile/images/4/4e/Darkseid.png/revision/latest?cb=20160129185736",
+   
+    "location": "Galaxy"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+   
+    "location": "Under a City Dump"
+  }
+]
